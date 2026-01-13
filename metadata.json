@@ -1,0 +1,7 @@
+{
+  "name": "RED-POP Creator Platform",
+  "description": "A sustainable pop-up store empowerment platform for Xiaohongshu IP owners, featuring AI design, 3D simulation, and real-time monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
